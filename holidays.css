@@ -1,0 +1,42 @@
+.card-custom-height {
+    height: 400px; 
+}
+
+.card-img-top {
+    height: 230px; 
+    object-fit: cover; 
+}
+
+.card-body {
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+footer {
+    text-align: center;
+    position: bottom;
+    bottom: 0;
+    width: 100%;
+}
+
+.full-height {
+    min-height: 100vh;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.nav-link {
+    margin: 0 10px;
+}
+
+.nav {
+    justify-content: center;
+}
